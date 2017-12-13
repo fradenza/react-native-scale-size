@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/DENZA/Workspace/react/scaleDemo/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/DENZA/Workspace/react/scaleDemo/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/DENZA/Workspace/react/scaleDemo/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/DENZA/Workspace/react/scaleDemo/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/DENZA/Workspace/react/scaleDemo/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/DENZA/Workspace/react/scaleDemo/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/DENZA/Workspace/react/scaleDemo/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/DENZA/Workspace/react/scaleDemo/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/DENZA/Workspace/react/scaleDemo/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/DENZA/Workspace/react/scaleDemo/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/DENZA/Workspace/react/scaleDemo/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/DENZA/Workspace/react/scaleDemo/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/DENZA/Workspace/react/scaleDemo/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/DENZA/Workspace/react/scaleDemo/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/DENZA/Workspace/react/scaleDemo/node_modules/react-native/React/Base/RCTJSEnvironment.h \
+  /Users/DENZA/Workspace/react/scaleDemo/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/DENZA/Workspace/react/scaleDemo/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/DENZA/Workspace/react/scaleDemo/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/DENZA/Workspace/react/scaleDemo/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/DENZA/Workspace/react/scaleDemo/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/DENZA/Workspace/react/scaleDemo/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h
